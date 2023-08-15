@@ -16,7 +16,7 @@ PracticeEx backend
 
 ## 프로젝트 개요
 ### 프로젝트명
-> 2tWasSummer Project
+> PracticeEx Project
 
 ### 프로젝트 요구 사항
 <details>
