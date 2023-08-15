@@ -35,3 +35,12 @@ out/
 
 ### VS Code ###
 .vscode/
+
+
+###application.properties custom###
+application-ds.properties
+application-key.properties
+application-s3.properties
+
+## generated Files
+**/src/main/generated/**
